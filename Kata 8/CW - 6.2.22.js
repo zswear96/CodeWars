@@ -5,4 +5,4 @@
 function square(nums){
     return nums ** 2
     
-    }// Write the "square"-function here
+    }// Write the "square"-function here.
