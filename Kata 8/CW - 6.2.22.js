@@ -4,3 +4,4 @@
 
 function square(nums){
     return nums ** 2
+}
