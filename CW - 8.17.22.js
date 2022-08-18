@@ -13,4 +13,8 @@
 
 // Inputs and the expected output will never exceed the signed 32-bit integer limit (2^31 - 1)
 
-
+function sumStr(a,b) {
+    let num1 = Number(a)
+    let num2 = Number(b)
+    return (num1 + num2).toString()
+  }
