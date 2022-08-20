@@ -6,4 +6,8 @@
 // combineNames('James', 'Stevens')
 // returns:
 
+<<<<<<< HEAD
 // 'James Stevens'.
+=======
+// 'James Stevens'
+>>>>>>> 1a00f0ae12e4fcd716a0fd9f9f9843c3f7fbd0c1
