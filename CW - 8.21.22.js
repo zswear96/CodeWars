@@ -10,4 +10,4 @@
 // Example
 // text before = "abc"
 // character   = "z"
-// text after  = "zzz"
+// text after  = "zzz"/
