@@ -2,5 +2,5 @@
 
 // Examples (input -> output)
 // 6, "I"     -> "IIIIII"
-// 5, "Hello" -> "HelloHelloHelloHelloHello"
+// 5, "Hello" -> "HelloHelloHelloHelloHello" 
 
