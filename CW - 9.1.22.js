@@ -7,4 +7,4 @@
 // remove("!Hi") == "!Hi"
 // remove("!Hi!") == "!Hi"
 // remove("Hi! Hi!") == "Hi! Hi"
-// remove("Hi") == "Hi"
+// remove("Hi") == "Hi".
