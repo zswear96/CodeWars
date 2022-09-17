@@ -6,3 +6,4 @@ sortme = function( names ){
     return names.sort()
   }
 
+//Take arry "names" and use the sort function to sort A-Z (Default)
