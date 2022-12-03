@@ -8,3 +8,9 @@
 // don't worry about uppercase vowels
 // y is not considered a vowel for this kata..
 
+function shortcut (string) {
+    return string
+      .split('')
+      .filter(str => !'aeiou'.includes(str))
+      .join('')
+  }
