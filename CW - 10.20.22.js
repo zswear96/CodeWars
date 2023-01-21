@@ -4,3 +4,10 @@
 
 // All values will be positive integers or floats, or zero...
 
+function plural(n) {
+    if(n == 1){
+      return false
+    }else{
+      return true
+    }
+  }
