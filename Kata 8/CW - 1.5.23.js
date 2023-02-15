@@ -14,3 +14,8 @@
 // 16/4 = 4
 // 3. The mean (or average) of this list is 4
 
+function findAverage (nums) {
+    let add = nums.reduce(
+      (acc, curr) => acc + curr, 0)
+    return add / nums.length
+  }
