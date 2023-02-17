@@ -6,7 +6,7 @@
 
 // Rules:
 
-// Children under 14 old.
+// Children under 14 old..
 // Teens under 18 old.
 // Young under 21 old.
 // Adults have 21 or more.
