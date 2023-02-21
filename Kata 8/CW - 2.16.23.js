@@ -16,7 +16,7 @@
 // 17 --> "drink coke"
 // 18 --> "drink beer"
 // 20 --> "drink beer"
-// 30 --> "drink whisky"..
+// 30 --> "drink whisky"...
 
 function peopleWithAgeDrink(old) {
     if(old < 14){
