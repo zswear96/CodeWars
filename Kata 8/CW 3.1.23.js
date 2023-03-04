@@ -1,4 +1,4 @@
-// Input: Array of elements
+// Input: Array of elements.
 
 // ["h","o","l","a"]
 
