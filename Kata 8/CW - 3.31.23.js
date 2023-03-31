@@ -7,7 +7,7 @@
 
 // When you have finished the work, click "Run Tests" to see if your code is working properly.
 
-// In the end, click "Submit" to submit your code pass this kata.
+// In the end, click "Submit" to submit your code pass this kata..
 
 let v1 = 50,
     v2 = 100,
@@ -44,3 +44,4 @@ function equal4(){
 function equal5(){
   let a =  v2, //set number value to a
       b =  v6; //set number value to b
+}
