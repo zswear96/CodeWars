@@ -4,6 +4,6 @@
 // [2, 4, 6]        -->  []
 
 function odds(values){
-    // arrow it.
+    // arrow it..
     return values.filter( n => n%2);
   }
